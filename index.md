@@ -45,7 +45,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
     <tr>
       <td>2/16</td>
       <td>Alireza Samar</td>
-      <td></td>
+      <td>Intro to Python (Setup, Syntaxes, Jupyter, Brush up on programming skills), Data structures & analysis w/ Pandas</td>
       <td>TBA</td>
       <td></td>
     </tr>
@@ -59,7 +59,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
     <tr>
       <td>2/23</td>
       <td>Alireza Samar</td>
-      <td></td>
+      <td>Base N-dimensional array package w/ NumPy, Scikit-learn, Scientific computing w/ SciPy</td>
       <td>TBA</td>
       <td></td>
     </tr>
@@ -73,7 +73,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
     <tr>
       <td>3/2</td>
       <td>Alireza Samar</td>
-      <td></td>
+      <td>Comprehensive 2D Plotting w/ Building Interactive Dashboards with Jupyter</td>
       <td>TBA</td>
       <td></td>
     </tr>
