@@ -20,7 +20,7 @@
 **Location**: TBA
 
 ## Office hours
-Alireza: 3-4 PM on Tue & Thu in UTM MLDS, Block PA3.
+Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
 
 ## Syllabus
 
@@ -44,6 +44,34 @@ Alireza: 3-4 PM on Tue & Thu in UTM MLDS, Block PA3.
     </tr>
     <tr>
       <td>2/16</td>
+      <td>Alireza Samar</td>
+      <td></td>
+      <td>TBA</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2/21</td>
+      <td>Siti Sophiayati Yuhaniz</td>
+      <td>No assigned readings for this lecture</td>
+      <td>TBA</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2/23</td>
+      <td>Alireza Samar</td>
+      <td></td>
+      <td>TBA</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2/28</td>
+      <td>Siti Sophiayati Yuhaniz</td>
+      <td>No assigned readings for this lecture</td>
+      <td>TBA</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3/2</td>
       <td>Alireza Samar</td>
       <td></td>
       <td>TBA</td>
