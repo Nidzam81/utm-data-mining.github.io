@@ -15,9 +15,9 @@
 </div>
 
 ## Lectures
-**Time**: TBA
+**Time**: 9am to 5pm
 
-**Location**: TBA
+**Location**: Professional Training Room 2, Level 3, Menara Razak
 
 ## Office hours
 Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
