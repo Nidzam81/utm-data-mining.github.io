@@ -48,7 +48,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
     <tr>
       <td>2/16</td>
       <td>Alireza Samar</td>
-      <td>Refresh your OOP knowledge</td>
+      <td>Refresh your OOP knowledge<br/><a href="https://drive.google.com/file/d/0ByCqHmF4VJXicExfREtlaHZsSzA/view?usp=sharing">Install Python and Jupyter Notebook</a></td>
       <td>Intro to Python (Setup, Syntaxes, Jupyter, Brush up on programming skills), Data structures & analysis w/ Pandas</td>
       <td></td>
     </tr>
