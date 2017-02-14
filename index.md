@@ -42,7 +42,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
       <td>2/14</td>
       <td>Siti Sophiayati Yuhaniz</td>
       <td>No assigned readings for this lecture</td>
-      <td><a href="https://drive.google.com/open?id=0ByCqHmF4VJXidE5WVTJHcktKTWs">Course Outline</a><br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiOHVyc1dHT1ZGYWc">Text book: Data Mining</a><br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiQXVQOEx3RDRnNFk">Text book: Data Science for Business</a><br/><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiQXFSS0Z5MWdhUWM/view?usp=sharing">Introduction to Big Data</a><br/><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiWVp4Rm9sQXoxM1E/view?usp=sharing">Chapter 2: Introduction to Data Mining</a></td>
+      <td><a href="https://drive.google.com/open?id=0ByCqHmF4VJXidE5WVTJHcktKTWs">Course Outline</a><br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiOHVyc1dHT1ZGYWc">Text book: Data Mining</a><br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiQXVQOEx3RDRnNFk">Text book: Data Science for Business</a><br/><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiM3pjT3RKc3E1YjQ/view?usp=sharing">Introduction to Big Data</a><br/><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiWVp4Rm9sQXoxM1E/view?usp=sharing">Chapter 2: Introduction to Data Mining</a></td>
       <td></td>
     </tr>
     <tr>
