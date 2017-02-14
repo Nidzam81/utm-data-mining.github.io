@@ -22,7 +22,7 @@
 ## Office hours
 Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
 
-## Office hours
+## Course Outline & Text Book
 <a href="https://drive.google.com/open?id=0ByCqHmF4VJXidE5WVTJHcktKTWs">Course Outline</a><br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiOHVyc1dHT1ZGYWc">Text book: Data Mining</a><br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiQXVQOEx3RDRnNFk">Text book: Data Science for Business</a>
 
 ## Syllabus
