@@ -42,13 +42,13 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
       <td>2/14</td>
       <td>Siti Sophiayati Yuhaniz</td>
       <td>No assigned readings for this lecture</td>
-      <td><a href="https://drive.google.com/open?id=0ByCqHmF4VJXidE5WVTJHcktKTWs">Course Outline</a><br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiOHVyc1dHT1ZGYWc">Text book: Data Mining</a><br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiQXVQOEx3RDRnNFk">Text book: Data Science for Business</a><br/><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiM3pjT3RKc3E1YjQ/view?usp=sharing">Introduction to Big Data</a><br/><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiWVp4Rm9sQXoxM1E/view?usp=sharing">Chapter 2: Introduction to Data Mining</a></td>
+      <td><ul><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXidE5WVTJHcktKTWs">Course Outline</a></li><br/><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiOHVyc1dHT1ZGYWc">Text book: Data Mining</a></li><br/><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiQXVQOEx3RDRnNFk">Text book: Data Science for Business</a></li><br/><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiM3pjT3RKc3E1YjQ/view?usp=sharing">Introduction to Big Data</a></li><br/><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiWVp4Rm9sQXoxM1E/view?usp=sharing">Chapter 2: Introduction to Data Mining</a></li></ul></td>
       <td></td>
     </tr>
     <tr>
       <td>2/16</td>
       <td>Alireza Samar</td>
-      <td>Refresh your OOP knowledge<br/><a href="https://drive.google.com/file/d/0ByCqHmF4VJXicExfREtlaHZsSzA/view?usp=sharing">Python and Jupyter Notebook Setup Guide</a></td>
+      <td><ul><li>Refresh your OOP knowledge</li><br/><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXicExfREtlaHZsSzA/view?usp=sharing">Python and Jupyter Notebook Setup Guide</a></li></ul></td>
       <td>Intro to Python (Setup, Syntaxes, Jupyter, Brush up on programming skills), Data structures & analysis w/ Pandas<br/><ul><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXic0xQVTBILVFxX28">1st Practical Session Slide</a></li><br/><li><a href="http://nbviewer.jupyter.org/github/utm-data-mining/Pandas-Exercises/blob/master/Running%20Code.ipynb">Intro to Jupyter [Notebook]</a></li><br/><li><a href="http://nbviewer.jupyter.org/github/alirezasmr/Data-Science-with-Python/blob/master/Chapter-2-Introduction-to-Python-Programming.ipynb">Python Programming [Notebook]</a></li><br/><li><a href="https://github.com/utm-data-mining/Pandas-Exercises">Pandas Exercises</a></li></ul></td>
       <td>Feb 22nd, 2017 - 11:59pm<br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiTkRzeE1yVjZvVEk">Assignment 1 Dataset [CSV]</a></td>
     </tr>
