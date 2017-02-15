@@ -50,7 +50,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
       <td>Alireza Samar</td>
       <td>Refresh your OOP knowledge<br/><a href="https://drive.google.com/file/d/0ByCqHmF4VJXicExfREtlaHZsSzA/view?usp=sharing">Python and Jupyter Notebook Setup Guide</a></td>
       <td>Intro to Python (Setup, Syntaxes, Jupyter, Brush up on programming skills), Data structures & analysis w/ Pandas<br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXic0xQVTBILVFxX28">1st Practical Session Slide</a><br/><a href="http://nbviewer.jupyter.org/github/utm-data-mining/Pandas-Exercises/blob/master/Running%20Code.ipynb">Intro to Jupyter [Notebook]</a><br/><a href="http://nbviewer.jupyter.org/github/alirezasmr/Data-Science-with-Python/blob/master/Chapter-2-Introduction-to-Python-Programming.ipynb">Python Programming [Notebook]</a><br/><a href="https://github.com/utm-data-mining/Pandas-Exercises">Pandas Exercises</a></td>
-      <td><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiTkRzeE1yVjZvVEk">Assignment 1 Dataset [CSV]</a></td>
+      <td>Feb 22nd, 2017 - 11:59pm<br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiTkRzeE1yVjZvVEk">Assignment 1 Dataset [CSV]</a></td>
     </tr>
     <tr>
       <td>2/21</td>
