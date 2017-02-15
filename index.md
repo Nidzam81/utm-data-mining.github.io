@@ -23,7 +23,7 @@
 Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
 
 ## Course Outline & Text Book
-<a href="https://drive.google.com/open?id=0ByCqHmF4VJXidE5WVTJHcktKTWs">Course Outline</a><br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiOHVyc1dHT1ZGYWc">Text book: Data Mining</a><br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiQXVQOEx3RDRnNFk">Text book: Data Science for Business</a>
+<ul><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXidE5WVTJHcktKTWs">Course Outline</a></li><br/><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiOHVyc1dHT1ZGYWc">Text book: Data Mining</a></li><br/><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiQXVQOEx3RDRnNFk">Text book: Data Science for Business</a></li></ul>
 
 ## Syllabus
 
@@ -42,7 +42,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
       <td>2/14</td>
       <td>Siti Sophiayati Yuhaniz</td>
       <td>No assigned readings for this lecture</td>
-      <td><ul><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXidE5WVTJHcktKTWs">Course Outline</a></li><br/><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiOHVyc1dHT1ZGYWc">Text book: Data Mining</a></li><br/><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiQXVQOEx3RDRnNFk">Text book: Data Science for Business</a></li><br/><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiM3pjT3RKc3E1YjQ/view?usp=sharing">Introduction to Big Data</a></li><br/><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiWVp4Rm9sQXoxM1E/view?usp=sharing">Chapter 2: Introduction to Data Mining</a></li></ul></td>
+      <td><ul><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiM3pjT3RKc3E1YjQ/view?usp=sharing">Introduction to Big Data</a></li><br/><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiWVp4Rm9sQXoxM1E/view?usp=sharing">Chapter 2: Introduction to Data Mining</a></li></ul></td>
       <td></td>
     </tr>
     <tr>
