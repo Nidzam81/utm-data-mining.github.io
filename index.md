@@ -48,9 +48,9 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
     <tr>
       <td>2/16</td>
       <td>Alireza Samar</td>
-      <td>Refresh your OOP knowledge<br/><a href="https://drive.google.com/file/d/0ByCqHmF4VJXicExfREtlaHZsSzA/view?usp=sharing">Install Python and Jupyter Notebook</a></td>
-      <td>Intro to Python (Setup, Syntaxes, Jupyter, Brush up on programming skills), Data structures & analysis w/ Pandas</td>
-      <td></td>
+      <td>Refresh your OOP knowledge<br/><a href="https://drive.google.com/file/d/0ByCqHmF4VJXicExfREtlaHZsSzA/view?usp=sharing">Python and Jupyter Notebook Setup Guide</a></td>
+      <td>Intro to Python (Setup, Syntaxes, Jupyter, Brush up on programming skills), Data structures & analysis w/ Pandas<br/><a href="https://drive.google.com/open?id=0ByCqHmF4VJXic0xQVTBILVFxX28">1st Practical Session Slide</a><br/><a href="http://nbviewer.jupyter.org/github/utm-data-mining/Pandas-Exercises/blob/master/Running%20Code.ipynb">Intro to Jupyter [Notebook]</a><br/><a href="http://nbviewer.jupyter.org/github/alirezasmr/Data-Science-with-Python/blob/master/Chapter-2-Introduction-to-Python-Programming.ipynb">Python Programming [Notebook]</a><br/><a href="https://github.com/utm-data-mining/Pandas-Exercises">Pandas Exercises</a></td>
+      <td><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiTkRzeE1yVjZvVEk">Assignment 1 Dataset [CSV]</a></td>
     </tr>
     <tr>
       <td>2/21</td>
@@ -62,7 +62,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3.
     <tr>
       <td>2/23</td>
       <td>Alireza Samar</td>
-      <td>TBA</td>
+      <td><a href="http://www.scipy-lectures.org/intro/language/python_language.html">Read more on Python</a></td>
       <td>Base N-dimensional array package w/ NumPy, Scikit-learn, Scientific computing w/ SciPy</td>
       <td></td>
     </tr>
