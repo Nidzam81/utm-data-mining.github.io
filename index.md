@@ -56,7 +56,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3 (Old AIS Building).
       <td>2/21</td>
       <td>Siti Sophiayati Yuhaniz</td>
       <td>No assigned readings for this lecture</td>
-      <td>TBA</td>
+      <td><ul><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiUUNsV2xmODNzVE0/view?usp=sharing">Modelling and Algorithms</a></li></ul></td>
       <td></td>
     </tr>
     <tr>
