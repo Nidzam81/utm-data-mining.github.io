@@ -23,7 +23,7 @@
 Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3 (Old AIS Building).
 
 ## Course Outline & Text Book
-<ul><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXidE5WVTJHcktKTWs">Course Outline</a></li><br/><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiOHVyc1dHT1ZGYWc">Text book: Data Mining</a></li><br/><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiQXVQOEx3RDRnNFk">Text book: Data Science for Business</a></li><br/><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiV05VRWRuQ2RIOUk/view?usp=sharing">[NEW] Reference book: Doing Data Science</a></li></ul>
+<ul><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXidE5WVTJHcktKTWs">Course Outline</a></li><br/><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiOHVyc1dHT1ZGYWc">Text book: Data Mining</a></li><br/><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiQXVQOEx3RDRnNFk">Text book: Data Science for Business</a></li><br/><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiV05VRWRuQ2RIOUk/view?usp=sharing">[NEW] Reference book: Doing Data Science</a></li><br/><li><a href="https://www.tensorflow.org/install/install_windows">[NEW] Installation guide for TensorFlow</a></li></ul>
 
 ## Syllabus
 
