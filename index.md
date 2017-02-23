@@ -63,7 +63,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3 (Old AIS Building).
       <td>2/23</td>
       <td>Alireza Samar</td>
       <td><a href="http://www.scipy-lectures.org/intro/language/python_language.html">Read more on Python</a></td>
-      <td>Base N-dimensional array package w/ NumPy, Scikit-learn, Scientific computing w/ SciPy</td>
+      <td><ul><li><a href="https://github.com/utm-data-mining/ml-exercises">Base N-dimensional array package w/ NumPy, Scikit-learn, Touch base on TensorFlow</a></li></ul></td>
       <td></td>
     </tr>
     <tr>
