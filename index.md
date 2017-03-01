@@ -43,7 +43,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3 (Old AIS Building).
       <td>Siti Sophiayati Yuhaniz</td>
       <td>No assigned readings for this lecture</td>
       <td><ul><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiM3pjT3RKc3E1YjQ/view?usp=sharing">Introduction to Big Data</a></li><br/><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiWVp4Rm9sQXoxM1E/view?usp=sharing">Chapter 2: Introduction to Data Mining</a></li></ul></td>
-      <td></td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>2/16</td>
@@ -76,7 +76,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3 (Old AIS Building).
     <tr>
       <td>3/2</td>
       <td>Alireza Samar</td>
-      <td>TBA</td>
+      <td><ul><li>Watch <a href="https://www.youtube.com/watch?v=coNDCIMH8bk">Look at Your Data</a> (18 minutes) for an excellent example of why visualization is useful for understanding your data.</li><li><a href="http://pandas.pydata.org/pandas-docs/stable/visualization.html">visualization page</a> from the official Pandas documentation.</li></ul></td>
       <td>Comprehensive 2D Plotting w/ Building Interactive Dashboards with Jupyter</td>
       <td></td>
     </tr>
@@ -92,8 +92,8 @@ This is a lecture, discussion, and project oriented class. Each lecture will foc
 Students will also form project groups (two to three people per group) and complete a research-quality class project.
 
 ## Deadlines
-* Project deadlines:
-  * TBA
+* Group project deadline:
+  * A day after the final exam.
 
 ## Grading
 * 3 x 10% class participation
