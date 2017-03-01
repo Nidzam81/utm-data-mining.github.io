@@ -77,7 +77,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3 (Old AIS Building).
       <td>3/2</td>
       <td>Alireza Samar</td>
       <td><ul><li>Watch <a href="https://www.youtube.com/watch?v=coNDCIMH8bk">Look at Your Data</a> (18 minutes) for an excellent example of why visualization is useful for understanding your data.</li><li><a href="http://pandas.pydata.org/pandas-docs/stable/visualization.html">visualization page</a> from the official Pandas documentation.</li></ul></td>
-      <td>Comprehensive 2D Plotting w/ Building Interactive Dashboards with Jupyter</td>
+      <td><ul><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiNERfTzBvVGsxcms/view?usp=sharing">Visualization Goals, Data Types, Statistical Graphs</a></li></ul></td>
       <td></td>
     </tr>
   </tbody>
