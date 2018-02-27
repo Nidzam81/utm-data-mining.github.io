@@ -38,7 +38,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3 (Old AIS Building).
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 20%;text-align: center;">Day</th>
+      <th style="width: 20%;">Day</th>
       <th style="width: 10%;">Instructor</th>
       <th style="width: 20%;">Readings</th>
       <th style="width: 50%;">Topic</th>
@@ -47,7 +47,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3 (Old AIS Building).
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td style="text-align: center;">1</td>
       <!--<td>Siti Sophiayati Yuhaniz</td>-->
       <td>No assigned readings for this lecture</td>
       <td><ul><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiM3pjT3RKc3E1YjQ/view?usp=sharing">Introduction to Big Data</a></li><br/><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiWVp4Rm9sQXoxM1E/view?usp=sharing">Chapter 2: Introduction to Data Mining</a></li></ul></td>
