@@ -6,6 +6,12 @@
   </a>
 </div>
 
+<div class="instructor">
+  <div class="instructorphoto"><img src="noImg.gif"></div>
+  <div>Syahid Anuar, PhD</div>
+  </a>
+</div>
+
 <!--
 ## Teaching Assistant
 <div class="instructor">
