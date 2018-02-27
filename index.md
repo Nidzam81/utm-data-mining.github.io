@@ -1,5 +1,3 @@
-<header><font size="20"><b>MANB 1153</b></font></header> 
-
 ## Instructor
 <div class="instructor">
   <a href="http://ais.utm.my/sophia">
