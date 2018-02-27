@@ -39,7 +39,7 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3 (Old AIS Building).
   <thead>
     <tr>
       <th style="width: 13%;">Day</th>
-      <th style="width: 17%;">Instructor</th>
+      <th style="width: 10%;">Instructor</th>
       <th style="width: 20%;">Readings</th>
       <th style="width: 50%;">Topic</th>
       <!--<th style="width: 8%;">Deadlines</th>-->
