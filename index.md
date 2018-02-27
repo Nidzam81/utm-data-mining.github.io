@@ -1,4 +1,4 @@
-<header style="font-size: 100px;"><b>MANB 1153</b></header> 
+<header><font size="6"><b>MANB 1153</b></font></header> 
 
 ## Instructor
 <div class="instructor">
