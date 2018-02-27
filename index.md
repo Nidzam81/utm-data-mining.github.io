@@ -7,7 +7,7 @@
 </div>
 
 <div class="instructor">
-  <div class="instructorphoto"><img src="noImg.gif"></div>
+  <div class="instructorphoto"><img src="noImg.png"></div>
   <div>Syahid Anuar, PhD</div>
 </div>
 
