@@ -1,4 +1,4 @@
-## Instructor
+## Instructors
 <div class="instructor">
   <a href="http://ais.utm.my/sophia">
   <div class="instructorphoto"><img src="sitisophiayatiyuhaniz.jpg"></div>
