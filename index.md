@@ -1,4 +1,4 @@
-<header>MANB 1153</header> 
+<header><b>MANB 1153</b></header> 
 
 ## Instructor
 <div class="instructor">
