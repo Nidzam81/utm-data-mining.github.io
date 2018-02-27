@@ -103,10 +103,10 @@ This course is about data mining and business analytics, the computational parad
 
 ## Class format and project
 <div style="text-align: justify; text-justify: inter-word;">
-This is a lecture, discussion, and project oriented class. Each lecture will focus on one of the topics, including a survey of the state-of-the-art in the area and an in-depth discussion of the topic. Each week, students are expected to complete reading assignments before class and participate actively in class discussion.
+This is a lecture, discussion, and project oriented class. Each lecture will focus on one of the topics, including a survey of the state-of-the-art in the area and an in-depth discussion of the topic. Each week, students are expected to complete reading assignments before class and participate actively in class discussion. Students will also form project groups (two to three people per group) and complete a research-quality class project.
 </div>
 
-Students will also form project groups (two to three people per group) and complete a research-quality class project.
+
 
 
 ## Deadlines
