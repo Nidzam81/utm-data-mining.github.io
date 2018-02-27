@@ -59,35 +59,35 @@ Alireza: 3-4 PM on Mondays & Fridays at UTM MLDS, Block PA3 (Old AIS Building).
       <td>N/A</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td><center>2</center></td>
       <!--<td>Alireza Samar</td>-->
       <td><ul><li>Refresh your OOP knowledge</li><br/><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXicExfREtlaHZsSzA/view?usp=sharing">Python and Jupyter Notebook Setup Guide</a></li></ul></td>
       <td>Intro to Python (Setup, Syntaxes, Jupyter, Brush up on programming skills), Data structures & analysis w/ Pandas<br/><ul><li><a href="https://drive.google.com/open?id=0ByCqHmF4VJXic0xQVTBILVFxX28">1st Practical Session Slide</a></li><br/><li><a href="http://nbviewer.jupyter.org/github/utm-data-mining/Pandas-Exercises/blob/master/Running%20Code.ipynb">Intro to Jupyter [Notebook]</a></li><br/><li><a href="http://nbviewer.jupyter.org/github/alirezasmr/Data-Science-with-Python/blob/master/Chapter-2-Introduction-to-Python-Programming.ipynb">Python Programming [Notebook]</a></li><br/><li><a href="https://github.com/utm-data-mining/Pandas-Exercises">Pandas Exercises</a></li></ul></td>
       <td><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiTkRzeE1yVjZvVEk">Assignment 1 Dataset [CSV]</a></td>
     </tr>
     <tr>
-      <td>3</td>
+      <td><center>3</center></td>
       <!--<td>Siti Sophiayati Yuhaniz</td>-->
       <td>No assigned readings for this lecture</td>
       <td><ul><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiUUNsV2xmODNzVE0/view?usp=sharing">Modelling and Algorithms</a></li></ul></td>
       <td>N/A</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td><center>4</center></td>
       <!--<td>Alireza Samar</td>-->
       <td><a href="http://www.scipy-lectures.org/intro/language/python_language.html">Read more on Python</a></td>
       <td><ul><li><a href="https://github.com/utm-data-mining/ml-exercises">Base N-dimensional array package w/ NumPy, Scikit-learn, Touch base on TensorFlow</a></li></ul></td>
       <td><a href="https://drive.google.com/open?id=0ByCqHmF4VJXiTkRzeE1yVjZvVEk">Contd. Assignment 1 Dataset [CSV]</a></td>
     </tr>
     <tr>
-      <td>5</td>
+      <td><center>5</center></td>
       <!--<td>Siti Sophiayati Yuhaniz</td>-->
       <td>No assigned readings for this lecture</td>
       <td><ul><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXidGRMOXVZM2gwbE0/view?usp=sharing">Evaluation and Deployment</a></li></ul></td>
       <td></td>
     </tr>
     <tr>
-      <td>6</td>
+      <td><center>6</center></td>
       <!--<td>Alireza Samar</td>-->
       <td><ul><li>Watch <a href="https://www.youtube.com/watch?v=coNDCIMH8bk">Look at Your Data</a> (18 minutes) for an excellent example of why visualization is useful for understanding your data.</li><li><a href="http://pandas.pydata.org/pandas-docs/stable/visualization.html">visualization page</a> from the official Pandas documentation.</li></ul></td>
       <td><ul><li><a href="https://drive.google.com/file/d/0ByCqHmF4VJXiNERfTzBvVGsxcms/view?usp=sharing">Visualization Goals, Data Types, Statistical Graphs</a></li></ul></td>
